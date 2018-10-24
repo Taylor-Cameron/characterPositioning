@@ -15,6 +15,7 @@ function letterInd(string) {
   console.log(finalObject);
 }
 letterInd('lighthouse in the house');
+// what my output should look like
 // {
 //   l: 0
 //   i: 1, 11
